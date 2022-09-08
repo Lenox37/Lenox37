@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Passionate about **Programming**
 
 <!--
 
