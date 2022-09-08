@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/Lenox37/Lenox37/main/github-contribution-grid-snake.svg)
 
