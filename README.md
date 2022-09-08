@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP**
 
-- ⚡ Passionate about **Programming**
+- ❤️ Passionate about **Programming**
 
 <!--
 
