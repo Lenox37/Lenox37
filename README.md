@@ -4,6 +4,8 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP**
 
+- 👯 Looking for new challenges and opportunities in the back-end dev area
+
 - ❤️ Passionate about **Programming**
 
 <!--
