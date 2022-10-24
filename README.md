@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Atividade</h1>
+<h1>Activity</h1>
 <!-- visitors count  -->
 
 <p align="center" >   
