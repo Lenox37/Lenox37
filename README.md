@@ -38,11 +38,6 @@ Here are some ideas to get you started:
 -->
 
 <h1>Activity</h1>
-<!-- visitors count  -->
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/lenox37/count.svg" />  
-</p>
 
 <!-- github workflow  -->
 
