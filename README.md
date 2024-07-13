@@ -2,7 +2,7 @@
 
 - 🔥 Web Developer | Dev Backend - PHP
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, TypeScript, NextJS, React, Linux, Redes**
 
 - 👯 Looking for new challenges and opportunities in the back-end dev area
 
